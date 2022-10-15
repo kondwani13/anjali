@@ -84,8 +84,8 @@
                     <img class="mx-auto" src="https://i.ibb.co/j630m23/hero2.png" />
                 </div>
                 <div class="w-full lg:w-1/2 h-full z-10">
-                    <p class="text-indigo-500 uppercase text-2xl mb-4">Passion never fails</p>
-                    <h1 class="text-gray-900 text-4xl md:text-7xl mb-8">In service to the people.</h1>
+                    <p class="text-indigo-500 uppercase text-center pt-6 text-2xl mb-4">Passion never fails</p>
+                    <h1 class="text-gray-900 text-3xl text-center md:text-7xl mb-8">In service to the people.</h1>
                     <p class="text-gray-800 font-regular mb-8">Hi I'm Anjali Gupta an independent and self motivated experienced business development manager with vast valuable industry knowledge and passion for management. I'm a result oriented person with a proven track record for improving the market position of companies and maximizing opportunities for their financial growth.</p>
                     <div class="bg-white py-4 px-4 flex flex-col sm:flex-row justify-start sm:justify-between items-start sm:items-center shadow-lg rounded-lg">
                         <div class="sm:flex items-center py-2">
@@ -184,7 +184,7 @@
             </div>
  
             <div class="w-full px-8 border-white border rounded-md flex flex-col justify-start md:flex-row md:justify-between lg:justify-center gap-2 md:gap-20 py-6">
-                <p class="text-sm leading-none text-gray-300">USA 800 Bolystan street,2475,Bostan MA</p>
+                <p class="text-sm leading-none text-gray-300"></p>
                 <div class="flex justify-start gap-4">
                    <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/footer_4-svg1.svg" alt="Email">
                     <p class="text-sm leading-none text-gray-300">anjaligupta@gmail.com</p>
@@ -196,9 +196,9 @@
                     <div class="flex items-start w-full">
                         <div class="pb-10 md:pb-0">
                         <h3 class="text-xl cursor-default font-semibold leading-tight text-white mb-8">Product</h3>
-                            <p class="text-sm cursor-pointer leading-none text-gray-300 mb-6">Email Marketing</p>
-                            <p class="text-sm cursor-pointer leading-none text-gray-300 mb-6">Website Builder</p>
-                            <p class="text-sm cursor-pointer leading-none text-gray-300 mb-6">Market Automation</p>
+                            <p class="text-sm cursor-pointer leading-none text-gray-300 mb-6">Garlic paste</p>
+                            <p class="text-sm cursor-pointer leading-none text-gray-300 mb-6">Ginger powder</p>
+                            <p class="text-sm cursor-pointer leading-none text-gray-300 mb-6">onion powder...</p>
                         </div>
                         <div class="pb-10 md:pb-0 2xl:pl-20 pl-16">
                             <h3 class="text-xl cursor-default font-semibold leading-tight text-white mb-8">Support</h3>
@@ -229,8 +229,8 @@
                         <div class="pb-10 md:pb-0 2xl:pl-20 pl-16">
                             <h3 class="text-xl cursor-default font-semibold leading-tight text-white pb-8">Entreprenuer</h3>
                             <p class="text-sm cursor-pointer leading-none text-gray-300 pb-6">Online Marketer</p>
-                            <p class="text-sm cursor-pointer leading-none text-gray-300 pb-6">Marketing Manager</p>
-                            <p class="text-sm cursor-pointer leading-none text-gray-300 pb-6">Mid and large companies</p>
+                            <p class="text-sm cursor-pointer leading-none text-gray-300 pb-6">Marketing management</p>
+                            <p class="text-sm cursor-pointer leading-none text-gray-300 pb-6">Email marketing</p>
                         </div>
                     </div>
                     <div class="flex items-start w-full">

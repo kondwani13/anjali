@@ -69,7 +69,7 @@
                             <li class="ml-4">
                                 <button @click="scrollToAnchorPoint('about')">About</button>
                             </li>
-                            <li class="ml-4">
+                            <li class="ml-3">
                                 <button @click="scrollToAnchorPoint('faq')">Faq</button>
                             </li>
                         </ul>

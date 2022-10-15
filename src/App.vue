@@ -84,9 +84,9 @@
                     <img class="mx-auto" src="https://i.ibb.co/j630m23/hero2.png" />
                 </div>
                 <div class="w-full lg:w-1/2 h-full z-10">
-                    <p class="text-indigo-500 uppercase text-center pt-6 text-2xl mb-4">Passion never fails</p>
+                    <p class="text-indigo-500 uppercase font-bold text-center pt-6 text-2xl mb-4">Passion never fails</p>
                     <h1 class="text-gray-900 text-3xl text-center md:text-7xl mb-8">In service to the people.</h1>
-                    <p class="text-gray-800 font-regular mb-8">Hi I'm Anjali Gupta an independent and self motivated experienced business development manager with vast valuable industry knowledge and passion for management. I'm a result oriented person with a proven track record for improving the market position of companies and maximizing opportunities for their financial growth.</p>
+                    <p class="text-gray-800 text-center font-regular mb-8">Hi I'm Anjali Gupta an independent and self motivated experienced business development manager with vast valuable industry knowledge and passion for management. I'm a result oriented person with a proven track record for improving the market position of companies and maximizing opportunities for their financial growth.</p>
                     <div class="bg-white py-4 px-4 flex flex-col sm:flex-row justify-start sm:justify-between items-start sm:items-center shadow-lg rounded-lg">
                         <div class="sm:flex items-center py-2">
                             <div class="flex items-center">
@@ -134,7 +134,7 @@
             <div class="xl:w-1/3 md:w-1/2 w-full lg:px-20 px-4">
                 <h1 role="heading" class="focus:outline-none md:w-60 font-bold md:text-6xl text-4xl leading-tight text-gray-800">Services<span class="font-normal italic"> offered </span></h1>
                 <p role="contentinfo" class="focus:outline-none text-base leading-6 mt-8 text-gray-600 2xl:pr-24 xl:pr-0 pr-12">My life's work has been centered around community development and progress, that being so I strongly believe that we can achieve more when we mobilize ourselves in teams around a common goal.</p>
-                <p role="contentinfo" class="focus:outline-none pt-2 text-base leading-6  text-gray-600 2xl:pr-24 xl:pr-0 pr-12">I offer a soft skills development platform which is open to anybody that would like to take part, I aim at equipping Zambian ladies with cross culture methods of doing things. For example I teach the young ladies how to prepare Indian food etc...</p>
+                <p role="contentinfo" class="focus:outline-none pt-2 text-base leading-6  text-gray-600 2xl:pr-24 xl:pr-0 pr-12">I offer a soft skills development platform which is open to anybody that would like to take part, I aim at equipping Zambian women with cross culture methods of doing things. For example I teach young women how to prepare Indian food etc...</p>
 
                 <div class="mt-6">
                     <button class="flex items-center md:p-3 p-1 focus:outline-none text-xl font-medium leading-5 text-gray-800 focus:ring-2 focus:ring-offset-2 focus:ring-gray-700">

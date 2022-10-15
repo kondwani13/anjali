@@ -71,13 +71,13 @@
                                 <img class="w-full h-full overflow-hidden object-cover rounded-full" src="https://dh-ui.s3.amazonaws.com/assets/webapp/layout/grid_cards/grid_card9.jpg" alt="avatar" />
                             </div>
                             <div class="-ml-4 border-2 border-white dark:border-gray-700 shadow rounded-full w-10 h-10">
-                                <img class="w-full h-full overflow-hidden object-cover rounded-full" src="https://dh-ui.s3.amazonaws.com/assets/webapp/layout/grid_cards/grid_card10.jpg" alt="avatar" />
+                                <img class="w-full h-full overflow-hidden object-cover rounded-full" src="https://i.postimg.cc/MpdpLvzs/sm3.jpg" alt="avatar" />
                             </div>
                             <div class="-ml-4 border-2 border-white dark:border-gray-700 shadow rounded-full w-10 h-10">
-                                <img class="w-full h-full overflow-hidden object-cover rounded-full" src="https://dh-ui.s3.amazonaws.com/assets/webapp/layout/grid_cards/grid_card11.jpg" alt="avatar" />
+                                <img class="w-full h-full overflow-hidden object-cover rounded-full" src="https://i.postimg.cc/pdSX24hz/sm2.jpg" alt="avatar" />
                             </div>
                             <div class="-ml-4 border-2 border-white dark:border-gray-700 shadow rounded-full w-10 h-10">
-                                <img class="w-full h-full overflow-hidden object-cover rounded-full" src="https://dh-ui.s3.amazonaws.com/assets/webapp/layout/grid_cards/grid_card12.jpg" alt="avatar" />
+                                <img class="w-full h-full overflow-hidden object-cover rounded-full" src="https://i.postimg.cc/XvqY64Jn/sm1.jpg" alt="avatar" />
                             </div>
                         </div>
                     </div>

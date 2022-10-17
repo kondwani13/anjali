@@ -38,7 +38,7 @@
               text-center text-gray-600
             "
           >
-            By profession I am a public administrator as well as a financier.
+            I am a social entrepreneur that is passionate about working on susainable projects.
             Being well vested in soft skills, I have develped the passion of teaching and sharing these skills with other people.
           </p>
           <div class="md:mt-14 mt-12 flex flex-col items-center">
@@ -221,7 +221,7 @@
                 w-full
               "
             >
-             With the knowledge I have acumulated over time about growing companies and with the trainings I undertook concerning social enginnering 
+             With the knowledge I have acumulated over time about growing companies and with the trainings I undertook concerning social engineering 
              I believe together with other people sharing the same passion, we can push our country forward.
             </p>
           </div>

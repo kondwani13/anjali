@@ -12,11 +12,11 @@
             <div class="w-full lg:w-1/2 px-4 py-2">
               <details class="mb-4">
                 <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
-                  Are you Zambian?
+                  What made you a tech enthusiast
                 </summary>
 
                 <span>
-                 I am a full zambian citizen
+                 Curiosity: I had a natural curiosity and a desire to learn about new technologies and how they work.
                 </span>
               </details>
               <details class="mb-4">

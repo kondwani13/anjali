@@ -133,16 +133,16 @@
         
             <div class="xl:w-1/3 md:w-1/2 w-full lg:px-20 px-4">
                 <h1 role="heading" class="focus:outline-none md:w-60 font-bold md:text-6xl text-4xl leading-tight text-gray-800">Services<span class="font-normal italic"> offered </span></h1>
-                <p role="contentinfo" class="focus:outline-none text-base leading-6 mt-8 text-gray-600 2xl:pr-24 xl:pr-0 pr-12">My life's work has been centered around community development and progress, that being so I strongly believe that we can achieve more when we mobilize ourselves in teams around a common goal.</p>
-                <p role="contentinfo" class="focus:outline-none pt-2 text-base leading-6  text-gray-600 2xl:pr-24 xl:pr-0 pr-12">I offer a soft skills development platform which is open to anybody that would like to take part, I aim at equipping Zambian women with cross culture methods of doing things. For example I teach young women how to prepare Indian food etc...</p>
+                <p role="contentinfo" class="focus:outline-none text-base leading-6 mt-8 text-gray-600 2xl:pr-24 xl:pr-0 pr-12">My IT company offers a comprehensive range of services to support businesses' technology needs. We specialize in web development, mobile app development, software development, IT consulting, cloud computing, and digital marketing solutions. With our experienced team and expertise in various technologies, we deliver tailored and innovative solutions to help businesses thrive in the digital era.</p>
+                <p role="contentinfo" class="focus:outline-none pt-2 text-base leading-6  text-gray-600 2xl:pr-24 xl:pr-0 pr-12"></p>
 
                 <div class="mt-6 overflow-x-hidden">
-                    <div class="lg:pl-36 lg:pr-16 pl-4 bg-blue-back1 w-full inline-flex pb-8 pt-6 lg:space-x-24 "> 
+                    <div class="lg:pl-36 lg:pr-16 bg-blue-back1 w-full inline-flex pb-8 pt-6 lg:space-x-24 "> 
 
-      <button  @click="activeTab = 'Passion'" class=" lg:text-4xl text-indigo-800 hover:text-white px-2">management systems</button>
-       <button  @click="activeTab = 'Picture'" class=" lg:text-4xl text-indigo-800 hover:text-white px-2">ERP'S</button>
-       <button  @click="activeTab = 'Website'" class=" lg:text-4xl text-indigo-800 hover:text-white px-2">Digital Marketing</button>
-       <button  @click="activeTab = 'Apps'" class=" lg:text-4xl text-indigo-800 hover:text-white px-2">IT consultance</button>
+      <button  @click="activeTab = 'Passion'" class=" lg:text-4xl  p-1 text-indigo-800 hover:text-white hover:bg-gradient-to-l from-indigo-600 to-indigo-700 rounded ">management software</button>
+       <button  @click="activeTab = 'Picture'" class=" lg:text-4xl p-1 text-indigo-800 hover:text-white hover:bg-gradient-to-l from-indigo-600 to-indigo-700 rounded px-2">ERP'S setup</button>
+       <button  @click="activeTab = 'Website'" class=" lg:text-4xl p-1 text-indigo-800 hover:text-white hover:bg-gradient-to-l from-indigo-600 to-indigo-700 rounded px-2">Digital Marketing</button>
+       <button  @click="activeTab = 'Apps'" class=" lg:text-4xl p-1 text-indigo-800 hover:text-white hover:bg-gradient-to-l from-indigo-600 to-indigo-700 rounded ">IT consultance</button>
         
     </div>
                 </div>
@@ -171,11 +171,11 @@
         <div class="px-4 py-9 md:px-6 md:py-12 lg:px-20 lg:py-12">
             <div class="flex flex-col md:flex-row md:justify-between pb-10">
                 <div class="flex flex-col items-center">
-                    <button class="w-full md:w-auto px-24 py-2 bg-white border rounded-md text-xl font-semibold leading-tight text-gray-800 hover:bg-gray-200 focus:ring-2 focus:outline-none focus:ring-gray-200 focus:ring-opacity-50">Get started</button>
+                    <a href="https://wa.me/260979875897" ><button class="w-full md:w-auto px-24 py-2 bg-white border rounded-md text-xl font-semibold leading-tight text-gray-800 hover:bg-gray-200 focus:ring-2 focus:outline-none focus:ring-gray-200 focus:ring-opacity-50">Get started</button></a>
                     <p class="pt-2 text-sm leading-none text-gray-300 cursor-pointer hover:underline"></p>
                 </div>
                 <div>
-                    <p class="w-72 pt-9 md:py-0 text-sm leading-tight text-gray-300">09:00 AM to 6 PM, ibex hill 123/32, Lusaka</p>
+                    <p class="w-72 pt-9 md:py-0 text-sm leading-tight text-gray-300">09:00 AM to 6 PM, 25 ibex hill, Lusaka</p>
                 </div>
             </div>
  
@@ -183,7 +183,7 @@
                 <p class="text-sm leading-none text-gray-300"></p>
                 <div class="flex justify-start gap-4">
                    <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/footer_4-svg1.svg" alt="Email">
-                    <p class="text-sm leading-none text-gray-300">anjaligupta@gmail.com</p>
+                    <p class="text-sm leading-none text-gray-300">gloriaus2004@gmail.com</p>
                 </div>
             </div>
 
@@ -192,14 +192,14 @@
                     <div class="flex items-start w-full">
                         <div class="pb-10 md:pb-0">
                         <h3 class="text-xl cursor-default font-semibold leading-tight text-white mb-8">Product</h3>
-                            <p class="text-sm cursor-pointer leading-none text-gray-300 mb-6">Garlic paste</p>
-                            <p class="text-sm cursor-pointer leading-none text-gray-300 mb-6">Ginger powder</p>
-                            <p class="text-sm cursor-pointer leading-none text-gray-300 mb-6">onion powder...</p>
+                            <p class="text-sm cursor-pointer leading-none text-gray-300 mb-6">Laptops</p>
+                            <p class="text-sm cursor-pointer leading-none text-gray-300 mb-6">office stationery</p>
+                            <p class="text-sm cursor-pointer leading-none text-gray-300 mb-6">Software</p>
                         </div>
                         <div class="pb-10 md:pb-0 2xl:pl-20 pl-16">
                             <h3 class="text-xl cursor-default font-semibold leading-tight text-white mb-8">Support</h3>
                             <p class="text-sm cursor-pointer leading-none text-gray-300 mb-6">Generate lead</p>
-                            <p class="text-sm cursor-pointer leading-none text-gray-300 mb-6">Size Guide</p>
+                            <p class="text-sm cursor-pointer leading-none text-gray-300 mb-6"></p>
                             <p class="text-sm cursor-pointer leading-none text-gray-300 mb-6"></p>
                             <p class="text-sm cursor-pointer leading-none text-gray-300 mb-6"></p>
                         </div>
@@ -242,31 +242,12 @@
                    
                 </div>
 
-                <div class="pt-16 md:pt-12 lg:pt-0">
-                    <h3 class="text-xl font-semibold leading-tight text-white">Blog</h3>
-                    <div class="pt-8 mb-6 flex justify-center cursor-pointer items-center flex-col md:flex-row md:justify-start gap-6">
-                        <img class="hidden lg:block" src="https://i.ibb.co/NsH4JJX/blog1.png" alt="a workspace" />
-                        <img class="block lg:hidden" src="https://i.ibb.co/NsH4JJX/blog1.png" alt="a workspace" />
-                        <p class="text-center md:text-left text-base font-semibold cursor-pointer leading-normal text-gray-100">Why you should self educate</p>
-                    </div>
-                    <div class="mb-6 flex justify-center cursor-pointer items-center flex-col md:flex-row md:justify-start gap-6">
-                        <img class="hidden lg:block" src="https://i.ibb.co/L8ZXnrC/fhands.png" alt="a woman" />
-                        <img class="block lg:hidden" src="https://i.ibb.co/L8ZXnrC/fhands.png" alt="a woman" />
-                        <p class="text-center md:text-left text-base font-semibold cursor-pointer leading-normal text-gray-100">Importance of women empowerment</p>
-                    </div>
-                    <div class="mb-6 flex justify-center cursor-pointer items-center flex-col md:flex-row md:justify-start gap-6">
-                        <img class="hidden lg:block" src="https://i.ibb.co/WKq13ry/ginderp.png" alt="a workspace" />
-                        <img class="block lg:hidden" src="https://i.ibb.co/WKq13ry/ginderp.png" alt="a workspace" />
-                        <p class="text-center md:text-left text-base font-semibold leading-normal text-gray-100">the health benefits of ginger powder</p>
-                    </div>
-                    <div class="flex items-center md:justify-start justify-center">
-                        <button class="pt-8 hover:underline text-base font-medium leading-none text-white cursor-pointer">View all posts</button>
-                    </div>
-                </div>
+                
+                
             </div>
 
             <div class="pt-10 lg:pt-24 flex justify-center md:justify-start gap-12">
-               <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/footer_4-svg2.svg" alt="facebook">
+               <a href="https://web.facebook.com/anjali.mittal.142"><img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/footer_4-svg2.svg" alt="facebook"></a>
                 <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/footer_4-svg3.svg" alt="twitter">
                 <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/footer_4-svg4.svg" alt="instagram">
                 <img src="https://tuk-cdn.s3.amazonaws.com/can-uploader/footer_4-svg5.svg" alt="youtube">

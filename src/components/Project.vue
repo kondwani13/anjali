@@ -31,15 +31,15 @@
                         <div class="lg:pl-8 w-full lg:w-1/2 flex flex-col lg:flex-row items-start lg:items-center">
                             <div class="mr-12 flex lg:block items-center lg:mr-6 xl:mr-12 mt-5 lg:mt-0">
                                 <h2 class="text-gray-600 dark:text-gray-400 font-bold text-xl lg:text-2xl leading-6 mb-1 lg:text-center">1.</h2>
-                                <p class="ml-2 lg:ml-0 text-gray-800 dark:text-gray-100 text-base leading-5 text-center">Software and digital Marketing</p>
+                                <p class="ml-2 lg:ml-0 text-gray-800 dark:text-gray-100 text-base leading-5 text-center">IT infrastructure implementation</p>
                             </div>
                             <div class="mr-12 flex lg:block lg:mr-6 xl:mr-12 mt-5 lg:mt-0">
                                 <h2 class="text-gray-600 dark:text-gray-400 font-bold text-xl lg:text-2xl leading-6 mb-1 lg:text-center">2.</h2>
-                                <p class="ml-2 lg:ml-0 text-gray-800 dark:text-gray-100 text-base leading-5 text-center">Accountancy</p>
+                                <p class="ml-2 lg:ml-0 text-gray-800 dark:text-gray-100 text-base leading-5 text-center">Digital marketing</p>
                             </div>
                             <div class="mt-5 flex lg:block lg:mt-0">
                                 <h2 class="text-gray-600 dark:text-gray-400 font-bold text-xl lg:text-2xl leading-6 mb-1 lg:text-center">3.</h2>
-                                <p class="ml-2 lg:ml-0 text-gray-800 dark:text-gray-100 text-base leading-5 text-center">Law</p>
+                                <p class="ml-2 lg:ml-0 text-gray-800 dark:text-gray-100 text-base leading-5 text-center">Accountancy</p>
                             </div>
                         </div>
                     </div>

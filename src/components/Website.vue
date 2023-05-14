@@ -1,5 +1,5 @@
 <template>
-     <p role="contentinfo" class="focus:outline-none text-base leading-6 mb-8 text-gray-600 md:mt-0 mt-10">ERP systems are essential for businesses as they integrate and streamline core processes, centralize data, enhance operational efficiency, improve customer relationship management, facilitate financial management and reporting, ensure compliance, support scalability, and provide decision support and analytics. By leveraging an ERP system, companies can achieve greater agility, competitiveness, and profitability in today's dynamic business environment.</p>
+     <p role="contentinfo" class="focus:outline-none text-base leading-6 mb-8 text-gray-600 md:mt-0 mt-10">Digital marketing encompasses a range of strategies and tactics aimed at leveraging digital channels to reach and engage target audiences. It offers numerous benefits, including broader reach, precise targeting, measurable results, and the ability to adapt and optimize campaigns based on data-driven insights. Digital marketing has become essential for businesses of all sizes to thrive in the digital era and effectively connect with their customers.</p>
                 <div class="w-full">
                     <img src="https://i.ibb.co/XSC8kfF/1dg.jpg" alt="Purple flowers on a book" class="md:w-full sm:w-1/2 w-full" />
                     <div class="flex items-center mt-8">

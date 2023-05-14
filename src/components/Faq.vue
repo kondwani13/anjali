@@ -21,31 +21,31 @@
               </details>
               <details class="mb-4">
                 <summary class="font-semibold bg-gray-200 rounded-md py-2 px-4">
-                  What is the main product you make?
+                  What services does your tech company provide?
                 </summary>
 
                 <span>
-                Garlic powder, tomato paste, puree, onion powder...
+                We offer a wide range of tech services, including web development, mobile app development, software development, UI/UX design, cloud computing, IT consulting, and digital marketing solutions.
                 </span>
               </details>
               <details class="mb-4">
                 <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
-                 Are you a farmer?
+                How experienced is your team?
                 </summary>
 
                 <span>
-                 At the moment I'm not, I order from other fellow Zambian farmers.
+                Our team consists of highly skilled professionals with extensive experience in their respective fields. We have a track record of successfully delivering projects for clients across various industries.
                 </span>
               </details>
             </div>
             <div class="w-full lg:w-1/2 px-4 py-2">
               <details class="mb-4">
                 <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
-                  Where do you sell your products?
+                 How long does it take to develop a website/mobile app/software?
                 </summary>
 
                 <span class="px-4 py-2">
-                  I deliver my products within lusaka and my goal is to supply super markets and shopping malls.
+                  The development timeline depends on the complexity and scope of the project. We work closely with our clients to understand their requirements and provide an estimated timeline during the initial consultation phase.
                 </span>
               </details>
               <details class="mb-4">
@@ -54,16 +54,16 @@
                 </summary>
 
                 <span class="px-4 py-2">
-                 At the moment because we are still in ou inception stage we have an average of 6 assistants
+                 At the moment because we are still in our inception stage we have an average of 6 assistants
                 </span>
               </details>
               <details class="mb-4">
                 <summary class="font-semibold  bg-gray-200 rounded-md py-2 px-4">
-                  Do you sell your products online?
+                  Can you assist with digital marketing and SEO?
                 </summary>
 
                 <span class="px-4 py-2">
-                 I am currently in the process of launching an ecommerce app where people can buy my products online.
+                 Yes, we offer digital marketing services, including search engine optimization (SEO), search engine marketing (SEM), social media marketing, content marketing, and email marketing. We can help improve your online visibility and drive targeted traffic to your website.
                 </span>
               </details>
             </div>

@@ -9,7 +9,7 @@
             <nav class="lg:hidden relative z-40">
                 <div ref="homes" class="flex py-6 justify-between items-center px-4">
                     <div>
-                        <img  @click="scrollToAnchorPoint('home')" class="w-24" src="https://i.ibb.co/b2tMvSt/anlogo.png" alt="" />
+                        <img  @click="scrollToAnchorPoint('home')" class="w-24" src="https://i.ibb.co/m63WKs7/nlogo.png" alt="" />
                     </div>
                     <div class="flex items-center">
                         <ul id="list" class="hidden p-2 border-r bg-white absolute rounded top-0 left-0 right-0 shadow mt-16 md:mt-16">
@@ -54,7 +54,7 @@
             <nav class="hidden relative z-10 w-full lg:flex justify-between items-center p-20">
                 <div ref="home" class="w-1/6">
                     <a>
-                        <img class="" src="https://i.ibb.co/b2tMvSt/anlogo.png" />
+                        <img class="" src="https://i.ibb.co/m63WKs7/nlogo.png" />
                     </a>
                 </div>
                 <div class="w-5/6">
@@ -136,23 +136,19 @@
                 <p role="contentinfo" class="focus:outline-none text-base leading-6 mt-8 text-gray-600 2xl:pr-24 xl:pr-0 pr-12">My life's work has been centered around community development and progress, that being so I strongly believe that we can achieve more when we mobilize ourselves in teams around a common goal.</p>
                 <p role="contentinfo" class="focus:outline-none pt-2 text-base leading-6  text-gray-600 2xl:pr-24 xl:pr-0 pr-12">I offer a soft skills development platform which is open to anybody that would like to take part, I aim at equipping Zambian women with cross culture methods of doing things. For example I teach young women how to prepare Indian food etc...</p>
 
-                <div class="mt-6">
-                    <button class="flex items-center md:p-3 p-1 focus:outline-none text-xl font-medium leading-5 text-gray-800 focus:ring-2 focus:ring-offset-2 focus:ring-gray-700">
-                        Discover more
-                        <svg @click="Live = 'Picture'" class="ml-8" width="45" height="40" viewBox="0 0 45 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path
-                                d="M11.2113 33.7887C11.0161 33.9839 11.0157 34.3009 11.2157 34.4911C13.956 37.0978 17.3821 38.8765 21.0982 39.6157C24.9778 40.3874 28.9991 39.9913 32.6537 38.4776C36.3082 36.9638 39.4318 34.4004 41.6294 31.1114C43.827 27.8224 45 23.9556 45 20C45 16.0444 43.827 12.1776 41.6294 8.8886C39.4318 5.59961 36.3082 3.03616 32.6537 1.52241C28.9991 0.00865715 24.9778 -0.38741 21.0982 0.384294C17.3821 1.12346 13.956 2.90221 11.2157 5.50886C11.0157 5.69911 11.0161 6.01609 11.2113 6.21127C11.4065 6.40645 11.7225 6.4059 11.9227 6.21592C14.523 3.74892 17.7711 2.06527 21.2932 1.36468C24.9789 0.631541 28.7993 1.00781 32.2711 2.44591C35.743 3.88401 38.7105 6.31934 40.7983 9.44394C42.8861 12.5685 44.0004 16.2421 44.0004 20C44.0004 23.7579 42.8861 27.4315 40.7983 30.5561C38.7105 33.6807 35.743 36.116 32.2711 37.5541C28.7993 38.9922 24.9789 39.3685 21.2932 38.6353C17.7711 37.9347 14.523 36.2511 11.9227 33.7841C11.7225 33.5941 11.4065 33.5935 11.2113 33.7887Z"
-                                fill="#1F2937"
-                            />
-                            <path d="M1 20H29" stroke="#1F2937" stroke-linecap="round" stroke-linejoin="round" />
-                            <path d="M21 28L29 20" stroke="#1F2937" stroke-linecap="round" stroke-linejoin="round" />
-                            <path d="M21 12L29 20" stroke="#1F2937" stroke-linecap="round" stroke-linejoin="round" />
-                        </svg>
-                    </button>
+                <div class="mt-6 overflow-x-hidden">
+                    <div class="lg:pl-36 lg:pr-16 pl-4 bg-blue-back1 w-full inline-flex pb-8 pt-6 lg:space-x-24 "> 
+
+      <button  @click="activeTab = 'Passion'" class=" lg:text-4xl text-indigo-800 hover:text-white px-2">management systems</button>
+       <button  @click="activeTab = 'Picture'" class=" lg:text-4xl text-indigo-800 hover:text-white px-2">ERP'S</button>
+       <button  @click="activeTab = 'Website'" class=" lg:text-4xl text-indigo-800 hover:text-white px-2">Digital Marketing</button>
+       <button  @click="activeTab = 'Apps'" class=" lg:text-4xl text-indigo-800 hover:text-white px-2">IT consultance</button>
+        
+    </div>
                 </div>
             </div>
-            <div class="xl:w-4/6 md:w-1/2 w-full xl:pl-48 lg:px-20 px-4">
-               <component :is="Live" />
+            <div class="mb-8 pb-6 xl:w-4/6 md:w-1/2 w-full xl:pl-48 lg:px-20 px-4">
+               <component :is="activeTab" />
             </div>
         </div>
     </div>
@@ -161,7 +157,7 @@
 
     
 
-   <div class="pt-28" ref="clients">
+   <div class="pt-28 mt-36" ref="clients">
     <project /> 
    </div>
    <div ref="about">
@@ -328,19 +324,21 @@ import Stats from './components/Stats.vue'
 import About from './components/About.vue'
 import Passion from './components/Passion.vue'
 import Picture from './components/Picture.vue'
+import Website from './components/Website.vue'
+import Apps from './components/Apps.vue'
 
 
  
 
 export default {
     name: "Index",
-    components: {AnimCount, Project, Footer, Faq, Stats, About, Passion, Picture},
+    components: {AnimCount, Project, Footer, Faq, Stats, About, Passion, Picture, Website, Apps},
 
   
     data() {
       return {
        
-        Live: Passion,
+        activeTab: Passion,
         
        
         
